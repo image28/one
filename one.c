@@ -1,3 +1,5 @@
+// gcc one.c -o one
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
